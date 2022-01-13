@@ -1,5 +1,4 @@
 - Credits to: AdityaGans2542 & Oshekher
-- Fixed by: Hieupc
 
 > WARNNING: 
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
@@ -21,14 +20,4 @@ With this method, you can create as many RDPs as you want through Github.
 
 > Press Add secret 
 
-> Go to Action >  7onez > Run workflow > Run workflow > Wait for 3s then go to the next step.
-
-> Refresh Web and go to  7onez > build > Wait for 30s to 60s then go to the next step.
-
-> Press Down facing arrow button "Thông tin RPD miễn phí của bạn CPU 2 Core - 7GB Ram - 256 SSD." To Get IP, User, Password.
- 
-> You can change password of the VPS if you want as normally
-
-> Use at your own risk.
-
-(Every 6 hours, you just delete the workflow run and then create again - by repeating this step "Go to Action >  7onez > Run workflow > Run workflow" to create another free RPD)
+(Every 6 hours, you just delete the workflow run and then create again to create another free RPD)
